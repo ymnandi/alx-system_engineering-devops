@@ -1,0 +1,2 @@
+#!/bin/bash
+cacaview -e -d 60 /path/starwars/StarWarsEpisode5.mp4
